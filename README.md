@@ -2,7 +2,7 @@
 **'Digital Craftsman (Front-end, Back-end, Data Analysis)'**
 
 <div>
-    <img align="center" "width="200px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
+    <img align="center" "width="20px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
 </div>
 
 
