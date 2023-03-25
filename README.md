@@ -6,13 +6,13 @@ I am a full-stack developer and data analysis, building my vision of the digital
 
 Data analysis is currently what I do, where I work with my companies client (Connect Plus) who are aiding National Highways (NH) to consult on the M25 motorway. We help to budget, maintain, report and advice NH on what steps should be taken in order for the public to utilise the most busiest motorway within the whole of europe. 
 
-
+![giphy](https://user-images.githubusercontent.com/62765818/227741356-f47d8d6d-789c-4ae9-8d68-a86e40aa0ffc.gif)
 
 
 ---
 
 Languages and Tools:
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
 <!--
 **MohammedUsman-hub/MohammedUsman-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### 🔭 I’m currently working on a landing page called 6pathcardstox, the influence and idea has come from a side hustle/business I do. 
