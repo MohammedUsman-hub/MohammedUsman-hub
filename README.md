@@ -12,7 +12,8 @@ Data analysis is currently what I do, where I work with my companies client (Con
 ---
 
 Languages and Tools:
-
+<img  align="left" alt="Python" width="30px" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/>
+          
 <!--
 **MohammedUsman-hub/MohammedUsman-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### 🔭 I’m currently working on a landing page called 6pathcardstox, the influence and idea has come from a side hustle/business I do. 
