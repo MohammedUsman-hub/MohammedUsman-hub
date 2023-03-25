@@ -1,9 +1,12 @@
-### Hi there 👋
+### Hi there 👋 my name is Usman, nice to meet you. 
 
 ### 🔭 I’m currently working on a landing page called 6pathcardstox, the influence and idea has come from a side hustle/business I do. 
 ### 🌱 I’m currently learning React
 
 
+---
+
+Languages and Tools:
 
 <!--
 **MohammedUsman-hub/MohammedUsman-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
