@@ -1,6 +1,6 @@
 ### Hi there 👋 my name is Usman, nice to meet you. 
 <div>
-    <img width="50px" src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif">
+    <img align="center" "width="250px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
 </div>
 
 **'Digital Craftsman (Front-end, Back-end, Data Analysis)'**
