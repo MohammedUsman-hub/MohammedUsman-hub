@@ -13,7 +13,8 @@ Data analysis is currently what I do, where I work with my companies client (Con
 
 Languages and Tools:
 
-<img><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"></img>
+<img align="left" alt="Python Icon" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+          
           
           
 <!--
