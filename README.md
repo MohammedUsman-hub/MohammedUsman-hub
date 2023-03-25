@@ -1,5 +1,7 @@
 ### Hi there 👋 my name is Usman, nice to meet you. 
-The background color is `#ffffff`
+<div>
+    <img width="50px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjUyMmFjMjBlOGM1MWM0NWY0OWFkNjQ0OTNlMmI2OGZhZTQ2Njc3YyZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+</div>
 **'Digital Craftsman (Front-end, Back-end, Data Analysis)'**
 
 I am a full-stack developer and data analysis, building my vision of the digital world step by step. All coding projects have been built from the ground up, starting from visualising a plan, executing the plan, designing and then the fun part, coding. I can solve front-end issues by using the naked eye at its peak to spot different areas that need attention to detail. Using a stunning colour pallete that will ehance the psychology side of colours onto a website or application. Need help with back-end? no problem, from creating pages that require log in or for a customer to checkout all this is done via my favourite Python framework, Python Flask. 
@@ -33,7 +35,7 @@ Languages and Tools:
 <img align="left" alt="Python Icon" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
                                                                                                                                                                 
           
-          
+#         
           
 <!--
 **MohammedUsman-hub/MohammedUsman-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
