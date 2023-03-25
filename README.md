@@ -13,7 +13,7 @@ Data analysis is currently what I do, where I work with my companies client (Con
 
 Languages and Tools:
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<img><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"></img>
           
           
 <!--
