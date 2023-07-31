@@ -7,7 +7,7 @@
 
 
 <br>
-I am a ata analyst and an aspiring front-end/back-end/full-stack developer (I am open to either one), building my vision of the digital world step by step. All coding projects have been built from the ground up, starting from visualising a plan, designing, executing the plan and then the fun part, coding. I can solve front-end issues by using the naked eye at its peak to spot different areas that need attention to detail. Using a stunning colour pallete that will ehance the psychology side of colours onto a website or application. Need help with back-end? no problem, from creating pages that require log in or for a customer to checkout all this is done via my favourite Python framework, Python Flask. 
+I am a data analyst and an aspiring front-end/back-end/full-stack developer (I am open to either one), building my vision of the digital world step by step. All coding projects have been built from the ground up, starting from visualising a plan, designing, executing the plan and then the fun part, coding. I can solve front-end issues by using the naked eye at its peak to spot different areas that need attention to detail. Using a stunning colour pallete that will ehance the psychology side of colours onto a website or application. Need help with back-end? no problem, from creating pages that require log in or for a customer to checkout all this is done via my favourite Python framework, Python Flask. 
 
 Data analysis is currently what I do, where I work with my companies client (Connect Plus) who are aiding National Highways (NH) to consult on the M25 motorway. We help to budget, maintain, report and advice NH on what steps should be taken in order for the public to utilise the most busiest motorway within the whole of europe. 
 
