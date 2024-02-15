@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ### Hi there 👋 my name is Usman, nice to meet you. 
 **'Digital Craftsman (Front-end, Back-end, Data Analysis)'**
 
