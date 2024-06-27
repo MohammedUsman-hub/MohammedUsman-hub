@@ -9,7 +9,7 @@
 
 
 <br>
-I am a software engineer who lovea front-end/back-end/full-stack developing. I also close to 2 years experience in Data Analysis. Building my vision of the digital world step by step. All coding projects have been built from the ground up, starting from visualising a plan, designing, executing the plan and then the fun part, coding. I can solve front-end issues by using the naked eye at its peak to spot different areas that need attention to detail. Using a stunning colour pallete that will ehance the psychology side of colours onto a website or application.  
+I am a software engineer who loves front-end/back-end/full-stack developing. I also close to 2 years experience in Data Analysis. Building my vision of the digital world step by step. All coding projects have been built from the ground up, starting from visualising a plan, designing, executing the plan and then the fun part, coding. I can solve front-end issues by using the naked eye at its peak to spot different areas that need attention to detail. Using a stunning colour pallete that will ehance the psychology side of colours onto a website or application.  
 
 
 
